@@ -1,7 +1,7 @@
 # Trying to answer the question what exactly true and false means.
 
 >true and false are two sets of statement that are **cosets**.
->So if one statement can't be in both true and false at the same time.One of the main principle of math.
+>So  one statement can't be in both true and false at the same time.One of the main principle of math.
 
 But what it means not to be true and false at the same time.Does all statement fall to T(true set) or F(False set).
 Isn't there any middle ground.
@@ -31,4 +31,11 @@ Ex:
 
 ###Now is there any way to connect it with halting problem:
 
+##Thinking:
+How can we separaret things in a set into two sets.We can split more from there.
+1. is we can separate it if the element has certian prpreties na dother set if it doesn't has those properties.
+So if S is a set of all statement,than We could split the set into two sets (true) and (not true).
+But is (not true) is the same things as false.I don't think so.
+2. Can I explain functionaly what true and false acctually means??
+3. 
 
